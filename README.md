@@ -28,7 +28,7 @@ I wondered if there is the impact on home-court advantage due to the decreased f
 ## Conclusion
 Home-court winning percentage dropped by more than five percent in 19/20 and 20/21 seasons with no fans around from Fig 1.<br>
 Hypothesis was made that small number of home court fans affect low match points. Contrary to the hypothesis, average home points without fans were higher than those of other seasons before Covid-19. <br> 
-Another data analysis was performed to if absent arena impacts on the difference between home and away points. <br> 
+Another data analysis was performed to see if absent arena impacts on the difference between home and away points. <br> 
 As you see the figure 3., points gaps decreased when there are no spectators. 
 As a result, an empty home arena can be the reason for teams' mediocre performance at home.
     
